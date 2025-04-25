@@ -44,14 +44,4 @@ To view the website locally:
 
 2. **Open `index.html` in your preferred web browser**.
 
-## 📸 Screenshots
 
-*Include screenshots of the homepage and other significant sections here to provide a visual overview.*
-
-## 🤝 Contributing
-
-Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
