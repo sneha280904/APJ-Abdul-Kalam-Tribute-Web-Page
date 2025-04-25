@@ -2,19 +2,19 @@
 
 # APJ Abdul Kalam Tribute Web Page
 
-A responsive and elegant tribute website dedicated to Dr. A.P.J. Abdul Kalam, honoring his life, achievements, and enduring legacy. This project showcases the use of HTML and CSS to create an informative and visually appealing web page. ([anuskaghosh003/Tribute-Page - GitHub](https://github.com/anuskaghosh003/Tribute-Page?utm_source=chatgpt.com))
+A responsive and elegant tribute website dedicated to Dr. A.P.J. Abdul Kalam, honoring his life, achievements, and enduring legacy. This project showcases the use of HTML and CSS to create an informative and visually appealing web page. 
 
 ## 🌟 Features
 
 - **Biography Section**: Provides a comprehensive overview of Dr. Kalam's life, including his early years, education, and career milestones.
 - **Achievements**: Highlights significant contributions and accomplishments in science, technology, and public service.
 - **Inspirational Quotes**: Displays some of Dr. Kalam's most motivational quotes.
-- **Responsive Design**: Ensures optimal viewing experience across various devices. ([MTank76/Tribute-Website - APJ Abdul Kalam - GitHub](https://github.com/MTank76/Tribute-Website?utm_source=chatgpt.com))
+- **Responsive Design**: Ensures optimal viewing experience across various devices. (
 
 ## 🛠️ Technologies Used
 
 - **HTML5**: Structure of the web pages.
-- **CSS3**: Styling and layout. ([Tribute page - APJ Abdul Kalam](https://srikanthkanjarla.github.io/Tribute_Page/?utm_source=chatgpt.com))
+- **CSS3**: Styling and layout. 
 
 ## 📁 Project Structure
 
